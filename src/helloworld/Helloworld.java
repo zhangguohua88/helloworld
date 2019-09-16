@@ -7,6 +7,7 @@ public class Helloworld {
 
         System.out.println("中国人口世界最大");
 		//本地备注
+        System.out.print("this is good");
 
     }
 }
