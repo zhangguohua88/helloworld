@@ -15,8 +15,8 @@ public class Helloworld {
 
         System.out.println("涓浗浜哄彛涓栫晫鏈�澶�");
 		//鏈湴澶囨敞
-	//杩滅▼澶囨敞
-
+	//杩滅▼澶囨
+	System.out.println("this is good thing to do");	
     }
 }
 	
