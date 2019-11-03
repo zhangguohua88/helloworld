@@ -47,7 +47,7 @@ public class Helloworld {
 	
 	System.out.println("day day up ");
 	//在本地输出
-	
+	System.out.println("this is a good one");
 	
 	
 	
