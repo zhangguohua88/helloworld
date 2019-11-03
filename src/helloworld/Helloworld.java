@@ -12,20 +12,41 @@ public class Helloworld {
 
        
 	System.out.println("this is good thing to do");
+	
+	
 	   
-		System.out.println("wo are a good peopel");
+	System.out.print("good is ok");
+	
+	
+		
+		
+		
 	
 	
         
 	
         
 	System.out.println("this is good thing to do");	
+	
+	
 	System.out.println("hello good");	
 	System.out.println("this is one good ");
 	System.out.println("wo are good people ");
 	
+	
+	
 	System.out.println("good good study ");
+	System.out.println("good good study ");
+	System.out.println("good good study ");
+	System.out.println("good good study ");
+	System.out.println("good good study ");
+	System.out.println("good good study ");
+	System.out.println("good good study ");
+	System.out.println("good good study ");
+	System.out.println("good good study ");
+	
 	System.out.println("day day up ");
+	
 	
 	
 	
