@@ -24,6 +24,10 @@ public class Helloworld {
 	System.out.println("this is one good ");
 	System.out.println("wo are good people ");
 	
+	System.out.println("good good study ");
+	System.out.println("day day up ");
+	
+	
 	
     }
 }
