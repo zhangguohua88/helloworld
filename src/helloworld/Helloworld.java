@@ -49,6 +49,7 @@ public class Helloworld {
 	//在本地输出
 	System.out.println("this is a good one");
 	
+	//在云端输出
 	
 	
     }
