@@ -46,6 +46,7 @@ public class Helloworld {
 	System.out.println("good good study ");
 	
 	System.out.println("day day up ");
+	//在本地输出
 	
 	
 	
